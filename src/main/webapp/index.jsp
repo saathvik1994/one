@@ -9,7 +9,7 @@
 	<h2>WELCOME TO DEVOPS CLASS</h2>
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS THE LADST VERSION OF OUR APP</h1>
 	<h1>THIS IS NEXUS SERVICE </h1>
-         <h1>Updated the GITHUB </h1>
+         <h1>Updated the CODE </h1>
 
 	
 	
